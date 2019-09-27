@@ -139,7 +139,7 @@ Logo | <b>Location</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b> 
  --- | --- | :---:
- <img src="https://avatars3.githubusercontent.com/u/6335975?s=460&v=4" width="50" height="50"> | Seoul 🇰🇷| <a href="https://twitter.com/younatics"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
+ <img src="https://avatars3.githubusercontent.com/u/6335975?s=460&v=4" width="50" height="50"> | Seoul 🇰🇷| <a href="https://twitter.com/younatics"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> <a href="https://facebook.com/younaticss"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/facebook.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | :---:
