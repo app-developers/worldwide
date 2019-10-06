@@ -1,3 +1,3 @@
-  @IBAction func helloWorldAction(_ sender: Any) {
-        print("Hello, World!")
-    }
+@IBAction func helloWorldAction(_ sender: Any) {
+	print("Hello, World!")
+}
